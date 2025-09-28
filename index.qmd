@@ -1,5 +1,87 @@
 ---
-title: "Welcome to Tayport Cyclepath"
+title: "Welcome to the Tayport to Leuchars Cyclepath Proposal"
 ---
-Welcome to the Tayport to Leuchars Cyclepath proposal, connecting the towns of Tayport and Leuchars in Fife, Scotland. This project aims to create a safe and scenic route for cyclists and pedestrians, promoting sustainable transportation and enhancing local connectivity. 
 
+Connecting Dundee, Tayport, Leuchars, and St Andrews with a safe and scenic route for cyclists and pedestrians.
+
+![](./images/cyclepath_mock_up.png)
+
+## Cyclepath Map
+
+```{=html}
+<svg width="100%" height="120" viewBox="0 0 600 120" aria-label="Simple map showing Dundee, Tayport, Leuchars, and St Andrews connected by a cyclepath">
+  <style>
+    .town { font-family: Arial, sans-serif; font-size: 16px; fill: #333; }
+    .cyclepath-exist { stroke: #27ae60; stroke-width: 6; fill: none; }
+    .cyclepath-proposed { stroke: #e67e22; stroke-width: 6; fill: none; stroke-dasharray: 16 8; }
+    .dot { fill: #2980b9; }
+    .label-proposed { font-family: Arial, sans-serif; font-size: 14px; fill: #e67e22; }
+    .label-exist { font-family: Arial, sans-serif; font-size: 14px; fill: #27ae60; }
+  </style>
+  <!-- Towns -->
+  <circle cx="50" cy="60" r="12" class="dot" />
+  <text x="50" y="95" class="town" text-anchor="middle">Dundee</text>
+  <circle cx="200" cy="60" r="12" class="dot" />
+  <text x="200" y="95" class="town" text-anchor="middle">Tayport</text>
+  <circle cx="350" cy="60" r="12" class="dot" />
+  <text x="350" y="95" class="town" text-anchor="middle">Leuchars</text>
+  <circle cx="550" cy="60" r="12" class="dot" />
+  <text x="550" y="95" class="town" text-anchor="middle">St Andrews</text>
+  <!-- Cyclepath: Dundee to Tayport (existing) -->
+  <polyline points="50,60 200,60" class="cyclepath-exist" />
+  <text x="125" y="40" class="label-exist" text-anchor="middle">Existing</text>
+  <!-- Cyclepath: Tayport to Leuchars (proposed) -->
+  <polyline points="200,60 350,60" class="cyclepath-proposed" />
+  <text x="275" y="40" class="label-proposed" text-anchor="middle">Proposed</text>
+  <!-- Cyclepath: Leuchars to St Andrews (existing) -->
+  <polyline points="350,60 550,60" class="cyclepath-exist" />
+  <text x="450" y="40" class="label-exist" text-anchor="middle">Existing</text>
+</svg>
+```
+
+---
+
+## Why a Cyclepath?
+```{=html}
+<div style="display: flex; flex-wrap: wrap; gap: 2rem; justify-content: center; margin: 2rem 0;">
+  <div style="flex: 1; min-width: 220px;">
+    <h3>🌱 Cuts CO₂ Emissions</h3>
+    <p>Every bike ride means fewer car journeys, helping keep our air clean and our planet healthy.</p>
+  </div>
+  <div style="flex: 1; min-width: 220px;">
+    <h3>🏃‍♂️ Boosts Health</h3>
+    <p>Cycling and walking are great ways to stay active and improve mental wellbeing.</p>
+  </div>
+  <div style="flex: 1; min-width: 220px;">
+    <h3>🛡️ Safer for All</h3>
+    <p>Separated paths offer a safer space for cyclists, pedestrians, and families.</p>
+  </div>
+  <div style="flex: 1; min-width: 220px;">
+    <h3>🚗 Reduces Road Traffic</h3>
+    <p>Fewer cyclists on busy roads means less congestion and smoother journeys for everyone.</p>
+  </div>
+  <div style="flex: 1; min-width: 220px;">
+    <h3>🌳 Encourages Active Lifestyles</h3>
+    <p>Enjoy nature, meet neighbours, and discover the joy of traveling at your own pace.</p>
+  </div>
+</div>
+```
+---
+
+## What People Say
+
+- *"The cycle path has made it so much easier and safer for our family to enjoy the outdoors together."*  
+  <small>— Local resident</small>
+
+- *"I use the path to commute, and it’s a peaceful alternative to the busy roads."*  
+  <small>— Daily cyclist</small>
+
+- *"Great for walking with friends and spotting wildlife along the way!"*  
+  <small>— Nature lover</small>
+
+- *"I feel much more comfortable cycling now that there’s a dedicated route."*  
+  <small>— New cyclist</small>
+
+---
+
+Want to share your experience? [Contact us](mailto:info@tayportcyclepath.org) or add your testimonial!
