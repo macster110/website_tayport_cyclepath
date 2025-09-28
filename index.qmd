@@ -1,5 +1,5 @@
 ---
 title: "Welcome to Tayport Cyclepath"
 ---
+Welcome to the Tayport to Leuchars Cyclepath proposal, connecting the towns of Tayport and Leuchars in Fife, Scotland. This project aims to create a safe and scenic route for cyclists and pedestrians, promoting sustainable transportation and enhancing local connectivity. 
 
-This is the homepage for the Tayport Cyclepath Quarto website. Explore the About page for more information.
