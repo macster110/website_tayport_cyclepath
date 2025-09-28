@@ -4,7 +4,7 @@ title: "Welcome to the Tayport to Leuchars Cyclepath Proposal"
 
 Connecting Dundee, Tayport, Leuchars, and St Andrews with a safe and scenic route for cyclists and pedestrians.
 
-![](./images/cyclepath_mock_up.png)
+![](./images/cyclepath_mock_up.png){.rounded-img}
 
 ## Cyclepath Map
 
