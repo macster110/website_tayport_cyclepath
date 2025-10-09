@@ -16,3 +16,18 @@ img,
 img {
   margin-bottom: 1em;
 }
+
+/* Grid Listing Styles */
+.quarto-grid-listing {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr); /* Adjust the number of columns as needed */
+  gap: 20px;
+}
+
+.quarto-grid-item  {
+  border: 1px solid #ccc;
+  padding: 10px;
+  border-radius: 10px;
+  /*font-weight: bold;*/
+}
+
