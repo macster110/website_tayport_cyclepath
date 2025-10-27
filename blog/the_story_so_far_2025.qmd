@@ -2,6 +2,8 @@
 title: "The Story so Far"
 format: html
 description: "A summary of the project progress as we open the new website"
+image: the_story_so_far_small.png
+author: Jamie and Jim
 ---
 
 Welcome to our new website. If you've had a little look you will see that we are trying to build a cycle path between Leuchars 

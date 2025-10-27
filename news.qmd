@@ -3,10 +3,12 @@ title: "News & Updates"
 
 listing: 
   - id: newspanels
+    type: default
     sort: dispord
     contents: 
       - "news/*.qmd"
-    page-size: 3
+    image-align: left
+    image-height: 100px
     
   - id: blogpanels
     type: grid

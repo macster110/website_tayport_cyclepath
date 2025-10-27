@@ -3,25 +3,34 @@ project:
   type: website
 website:
   title: "Tentsmuir Cycle Link"
+  announcement: 
+    content: "Please take our survey - it makes a huge difference in prmototing this route to Fife Council. Click [here](survey.qmd) to start"
+    position: below-navbar 
+    type: info
   navbar:
-    logo: images/icon.png
-    background : "#1D3C27"
+    #logo: images/cycle_icon_small.png
+    background : "#507d2a"
     left:
       - href: index.qmd
         text: Home
+        icon: bicycle
       - href: benefits.qmd
         text: Benefits
+        icon: plus-square-fill
       - href: map.qmd
         text: Map
+        icon: map
       - href: news.qmd
         text: Updates
+        icon: newspaper
     right:
       - href: survey.qmd
         text: Survey
+        icon: list-check
 
 format:
   html:
     theme:
-      light: journal
+      light: flatly
       dark:  darkly 
     css: styles.css

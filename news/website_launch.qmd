@@ -1,6 +1,8 @@
 ---
-title: "website_launch"
+title: "Website Launched"
 description: "The Tentsmuir Cycle Link website has launched and out consultation is open!"
+image: cycle_icon_small.png
 format: html
 ---
 
+Welcome to our new website!
