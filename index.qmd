@@ -4,7 +4,7 @@ title: "Welcome to the Tentsmuir Cycle Link Campaign"
 
 Connecting Dundee, Tayport, Leuchars and St Andrews with a safe and scenic route for cyclists and pedestrians alongside Tentsmuir Forest.
 
-![](./images/cyclepath_mock_up.png){.rounded-img}
+![](./images/cyclepath_mock_up2.png){.rounded-img}
 
 ## Cyclepath Map
 
@@ -48,7 +48,7 @@ Connecting Dundee, Tayport, Leuchars and St Andrews with a safe and scenic route
     <p>Every bike ride means fewer car journeys, helping keep our air clean and our planet healthy.</p>
   </div>
   <div style="flex: 1; min-width: 220px;">
-    <h3>🏃‍♂️ Boosts Health</h3>
+    <h3>🏃️ Boosts Health</h3>
     <p>Cycling and walking are great ways to stay active and improve mental wellbeing.</p>
   </div>
   <div style="flex: 1; min-width: 220px;">
@@ -66,20 +66,7 @@ Connecting Dundee, Tayport, Leuchars and St Andrews with a safe and scenic route
 </div>
 ```
 
-## What People Say
-
-- *"The cycle path has made it so much easier and safer for our family to enjoy the outdoors together."*  
-  <small>— Local resident</small>
-
-- *"I use the path to commute, and it’s a peaceful alternative to the busy roads."*  
-  <small>— Daily cyclist</small>
-
-- *"Great for walking with friends and spotting wildlife along the way!"*  
-  <small>— Nature lover</small>
-
-- *"I feel much more comfortable cycling now that there’s a dedicated route."*  
-  <small>— New cyclist</small>
 
 ---
 
-Want to share your experience? [Contact us](mailto:info@tayportcyclepath.org) or add your testimonial!
+Want to share your experience? Take the [survey](survey) or [contact us](mailto:info@tayportcyclepath.org) or add your testimonial!

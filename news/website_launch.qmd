@@ -5,4 +5,4 @@ image: cycle_icon_small.png
 format: html
 ---
 
-Welcome to our new website!
+Welcome to our new website! Please have a look around and check out our [first blog post](/blog/the_story_so_far_2025.qmd) for some background on the project.

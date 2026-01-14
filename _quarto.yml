@@ -4,7 +4,7 @@ project:
 website:
   title: "Tentsmuir Cycle Link"
   announcement: 
-    content: "Please take our survey - it makes a huge difference in prmototing this route to Fife Council. Click [here](survey.qmd) to start"
+    content: "Please take our survey - it makes a huge difference in promoting this route to Fife Council. Click [here](survey.qmd) to start"
     position: below-navbar 
     type: info
   navbar:

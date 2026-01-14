@@ -1,5 +1,6 @@
 ---
-title: "survey"
+title: "Survey"
 format: html
 ---
 
+We are currently conducting a survey to gather feedback on the proposed Tentsmuir Cycle Path. Your input is invaluable in helping us design a route that meets the needs of the community and visitors alike.

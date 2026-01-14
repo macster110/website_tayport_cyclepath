@@ -3,6 +3,6 @@ title: "Route Map"
 format: html
 ---
 
-We are working on several different possible routes. Two of the broad options are detailed in the OS map below. Our preferred option is to go along the old railway line, however, routes are subject to landowner agreement and feasibility such as farming operations, flood risk and distance. 
+We are working on several different possible routes. Two of the broad options are detailed in the OS map below. Our preferred option is to follow the old railway line, however, routes are subject to landowner agreement and feasibility such as farming operations, flood risk and distance. *It is important to note that these options are indicative only - routes can be changed and adapted as this project progresses.*
 
-![](./images/Route_option_OS_map_2.png){.rounded-img}
+![](./images/Route_option_OS_map_2a.png){.rounded-img}
