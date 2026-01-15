@@ -28,13 +28,12 @@ jobs:
         # This creates the _site folder with your normal HTML
         run: quarto render
 
-      - name: Encrypt HTML files
+     - name: Encrypt HTML files
         run: |
           for file in $(find _site -name "*.html"); do
-            # Encrypt the file
-            staticrypt "$file" -p "@64TentsmuirCycle" --shorten
-            # Move the encrypted version to overwrite the original
-            mv "${file%.html}_encrypted.html" "$file"
+            # -o specifies the output filename. 
+            # By setting it to the same name, we overwrite the original.
+            staticrypt "$file" -p "@64TentsmuirCycle" -o "$file"
           done
 
       - name: Publish to GitHub Pages
