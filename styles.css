@@ -1,0 +1,33 @@
+/* Rounded corners for images */
+img,
+.rounded-img {
+  border-radius: 16px;
+}
+
+/* Rounded corners for testimonial or listing boxes */
+.rounded-box {
+  border-radius: 16px;
+  padding: 1em;
+  background: #f8f8f8;
+  margin: 1em 0;
+}
+
+/* Optional: Add some spacing to images if desired */
+img {
+  margin-bottom: 1em;
+}
+
+/* Grid Listing Styles */
+.quarto-grid-listing {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr); /* Adjust the number of columns as needed */
+  gap: 20px;
+}
+
+.quarto-grid-item  {
+  border: 1px solid #ccc;
+  padding: 10px;
+  border-radius: 10px;
+  /*font-weight: bold;*/
+}
+
