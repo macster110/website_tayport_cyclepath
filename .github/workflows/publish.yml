@@ -32,11 +32,11 @@ jobs:
         run: |
           for file in $(find _site -name "*.html"); do
             # Encrypt the file
-            staticrypt "$file" -p "topsecret123" --shorten
+            staticrypt "$file" -p "@64TentsmuirCycle" --shorten
             # Move the encrypted version to overwrite the original
             mv "${file%.html}_encrypted.html" "$file"
           done
-          
+
       - name: Publish to GitHub Pages
         uses: quarto-dev/quarto-actions/publish@v2
         with:
