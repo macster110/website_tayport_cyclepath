@@ -28,19 +28,17 @@ jobs:
         # This creates the _site folder with your normal HTML
         run: quarto render
 
-     - name: Encrypt HTML files
+      - name: Encrypt HTML files
+        # This loop finds every HTML file and overwrites it with an encrypted version
+        # REPLACE 'your-password-here' with your actual desired password
         run: |
-          for file in $(find _site -name "*.html"); do
-            # -o specifies the output filename. 
-            # By setting it to the same name, we overwrite the original.
-            staticrypt "$file" -p "@64TentsmuirCycle" -o "$file"
-          done
+          find _site -name "*.html" -exec staticrypt {} -p "@64TentsmuirCycle" -o {} \;
 
       - name: Publish to GitHub Pages
         uses: quarto-dev/quarto-actions/publish@v2
         with:
           target: gh-pages
-          # render: false is CRITICAL here so it uses our encrypted files
+          # render: false ensures we upload the encrypted files, not a fresh render
           render: false
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
