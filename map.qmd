@@ -5,4 +5,20 @@ format: html
 
 We are working on several different possible routes. Two of the broad options are detailed in the OS map below. Our preferred option is to follow the old railway line, however, routes are subject to landowner agreement and feasibility such as farming operations, flood risk and distance. *It is important to note that these options are indicative only - routes can be changed and adapted as this project progresses.*
 
-![](./images/Route_option_OS_map_2a.png){.rounded-img}
+### Proposed route
+
+![](./images/Route_option_OS_map_2a.png){.rounded-img} 
+
+::: {.centertext style="text-align: center;"}
+_Map of the some of the proposed route options between Tayport and Leuchars_
+::: 
+
+### Active travel strategy
+
+The Tayport Cycle Link forms parts of Fife council's broader Active Travel Strategy connecting Fife's towns and villages with safe cycles routes You can find more information about the Active Travel Strategy [here](https://www.fife.gov.uk/__data/assets/file/0019/40078/active-travel-strategy-and-action-plan.pdf).
+
+![](./images/active_travel_map.png){.rounded-img}
+
+::: {.centertext style="text-align: center;"}
+_Map of Fife Council's Active Travel Strategy showing proposed cycle routes in North East Fife - note the Tayport Cycle Link route connecting Leuchars and Tayport is shown as a dashed red line_
+::: 

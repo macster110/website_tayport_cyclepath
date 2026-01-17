@@ -1,6 +1,16 @@
 ---
 title: "Welcome to the Tentsmuir Cycle Link Campaign"
+listing: 
+
+  - id: newspanels
+    type: grid
+    sort: dispord
+    contents: 
+      - "news/*.qmd"
+    page-size: 3
+    
 ---
+
 
 Connecting Dundee, Tayport, Leuchars and St Andrews with a safe and scenic route for cyclists and pedestrians alongside Tentsmuir Forest.
 
@@ -39,8 +49,8 @@ Connecting Dundee, Tayport, Leuchars and St Andrews with a safe and scenic route
 </svg>
 ```
 
-
 ## Why a Cyclepath?
+
 ```{=html}
 <div style="display: flex; flex-wrap: wrap; gap: 2rem; justify-content: center; margin: 2rem 0;">
   <div style="flex: 1; min-width: 220px;">
@@ -66,7 +76,33 @@ Connecting Dundee, Tayport, Leuchars and St Andrews with a safe and scenic route
 </div>
 ```
 
+## Get Involved
 
----
+There's been progress behind the scenes but now we need you 🫵 to help us push this project forward. _Please take our [survey](survey) so we can demonstrate community support for this cycle path to Fife Council_
 
-Want to share your experience? Take the [survey](survey) or [contact us](mailto:info@tayportcyclepath.org) or add your testimonial!
+
+::: {style="text-align: center;"}
+<a href="survey.qmd" role="button" data-toggle="tooltip" title="Please take our survey to help us move the cycle path forward" 
+   style="background: radial-gradient(circle , #29962a, #507d2a); /* Gradient from blue to purple */
+          border: none;
+          color: white;
+          padding: 15px 32px;
+          text-align: center;
+          text-decoration: none;
+          display: inline-block;
+          font-size: 18px;
+          font-weight: bold;
+          border-radius: 12px;
+          width: 300px; /* Set a fixed width */" 
+   target="survey"> <i class="fas fa-donate" style="margin-right: 8px;"></i>Take our Survey!</a>
+:::
+
+
+## Updates
+
+::: {#newspanels}
+:::
+
+## Contact
+
+Feel free to [contact us](mailto:info@tayportcyclepath.org) if you have questions or thoughts.
