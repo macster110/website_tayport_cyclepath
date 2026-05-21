@@ -14,7 +14,7 @@ listing:
 
 Connecting Dundee, Tayport, Leuchars and St Andrews with a safe and scenic route for cyclists and pedestrians alongside Tentsmuir Forest.
 
-![](./images/cyclepath_mock_up2.png){.rounded-img}
+![](./images/cyclepath_mock_up3.png){.rounded-img}
 
 ## Cyclepath Map
 

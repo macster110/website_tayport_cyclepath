@@ -3,7 +3,7 @@ title: "Route Map"
 format: html
 ---
 
-We are working on several different possible routes. Three of the broad options are detailed in the interactive map below. Our preferred option is to follow the old railway line (dashed blue). Any of the routes are subject to change with feasibility, practicality, cost and land owner consent all factors in what is finally built. 
+We are working on several different possible routes. Three of the broad options are detailed in the interactive map below. Our preferred option is to follow the old Tayport branch railway line (dashed blue). Any of the routes are subject to change with feasibility, practicality, cost and land owner consent all factors in what is finally built. 
 
 Click on any route to see more details. The dashed lines are possible routes and solid lines are existing cycle paths. 
 
@@ -24,7 +24,7 @@ Click on any route to see more details. The dashed lines are possible routes and
   const paths = [
     {
       name: "Option A – Old Railway Line: 6.7 km (Preferred)",
-      desc: "Following the route of the former Tayport Branch Line. Largely flat, minimal road crossings and minimal impact on fields compared to other routes and likely the least expensive to construct as it's mostly already a path on an old railway line.",
+      desc: "Following the route of the former Tayport Branch Railway Line. Largely flat, minimal road crossings and minimal impact on fields compared to other routes and likely the least expensive to construct as it's mostly already a path on an old railway line.",
       color: "#2a7ae2",
       dashArray: "8, 8",
       sectionId: "option-a",
@@ -431,7 +431,7 @@ This is our preferred option and the one we are advocating for with Fife Council
 
 Option B runs through the interior of Tentsmuir Forest before joining the back road to Leuchars. While it avoids some private land it comes with several challenges:
 
-- The back road to Leuchars is narrow and would need to be widened at several points which would require agriculatural land. 
+- The back road to Leuchars is narrow and would need to be widened at several points which would require agricultural land. 
 - The route is 1.3 km longer than Option A
 - Road widening works would possibly be more disruptive and costly than the railway option
 - Sections through the forest may be affected by forestry operations
