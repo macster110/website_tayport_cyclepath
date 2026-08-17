@@ -1,14 +1,18 @@
 [
   {
-    "listing": "/index.html",
-    "items": [
-      "/news/website_launch.html"
-    ]
-  },
-  {
     "listing": "/news.html",
     "items": [
       "/news/website_launch.html",
+      "/blog/2026_progress.html",
+      "/blog/history-of-rights-of-way.html",
+      "/blog/the_story_so_far_2025.html"
+    ]
+  },
+  {
+    "listing": "/index.html",
+    "items": [
+      "/blog/2026_progress.html",
+      "/blog/history-of-rights-of-way.html",
       "/blog/the_story_so_far_2025.html"
     ]
   }
