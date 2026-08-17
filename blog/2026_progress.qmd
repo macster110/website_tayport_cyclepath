@@ -1,0 +1,36 @@
+---
+title: "Where we are we September 2026"
+format: html
+description: "Where is the Tentsmuir Cyclepath Campaign in 2026?"
+author: Jamie Macaulay
+date: 2026-08-17
+categories: [cycle path, 2026, Tayport]
+---
+
+After almost two years of working behind the scenes, the website and consultation are finally open! We are really proud to get here and encourage everyone reading to make sure they take the survey—it makes a massive difference.
+
+## Why so long?
+But why so long to get to this point? The answer to that is that there's already been a lot happening behind the scenes; for example, [exploring route options](the_story_so_far_2025.qmd), getting our cycle path on the [Council's Active Strategy](https://www.fife.gov.uk/__data/assets/file/0019/40078/active-travel-strategy-and-action-plan.pdf), contacting stakeholders, and particularly trying to engage landowners. Taking a look at the map of possible routes, Option A is our preferred route, but it passes over land belonging to several landowners. Options B and C pass through more public land initially before hitting the back road to Leuchars—if we wanted to widen the road or add a segregated cycle path, this would require private agricultural land too.
+
+![The old railway line is a good canditate for a cycle path - and a lot of it is still core path)](images/railway_path_image.jpg){.rounded-img}
+
+## Land ownership issues
+So all routes require the acquisition or use of private land, and we wanted to get this right from the start by engaging with landowners, asking them what they thought, what issues there might be, and having a process by which we recommended how we thought a path could be built that suited both the rural and wider community. Unfortunately, after a long series of talks, emails, and letters, and a delayed launch due to objections, we were unable to come to a consensus.
+
+The position of the landowners is that a path, particularly Option A along the old railway line, is incompatible with farming operations. Landowners argue that a path would:
+
+- disrupt harvest by having cyclists on the path.
+
+- disrupt pheasant shooting and stalking deer.
+
+- prevent maintenance of ditches.
+
+We have tried to propose potential solutions; for example, the path could be closed during harvest with diversions along the road or through Tentsmuir, or designing a path that allows for easy maintenance of ditches, but this has not resulted in any progress. A large portion of the old railway actually is already a core path that cyclists have a statutory right to use, and we believe that there is a strong community, economic and environmental case for resurfacing to make it more accessible and allowing the community to use the "non-core" section up to Morton Lochs, especially as this used to be a [right of way](history-of-rights-of-way.qmd).
+
+## What now
+So where do we go from here?
+
+The Council is generally very reluctant to use its statutory powers to acquire land, and in some ways for very good reason—it's a long, drawn-out process that nobody wants and costs a lot of money. They might as well use those funds to build cycle paths elsewhere. So it's up to us as a community to make it known that we want this cycle path built. The council has already agreed they will begin formal consultations when community support is demonstrated and will take into account views expressed by all sides. Hopefully, if we can demonstrate enough support, the landowners might think again about their objections to the route.
+
+## Take the survey!
+So in a nutshell, it's time to demonstrate that our local communities want this cycle link - connecting Dundee, Taypot, Leuchars, Guardbridge and St Andrews with an accessible, safe route for everyone. If you want this to happen then please take our [survey](../survey.qmd)! 

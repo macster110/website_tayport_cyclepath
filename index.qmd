@@ -6,7 +6,7 @@ listing:
     type: grid
     sort: dispord
     contents: 
-      - "news/*.qmd"
+      - "blog/*.qmd"
     page-size: 3
     
 ---

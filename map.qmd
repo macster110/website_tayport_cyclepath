@@ -421,7 +421,9 @@ Option A follows the route of the former Tayport Branch Line, which closed in 19
 - Low impact on agricultural land compared to the other options.
 - Likely the least expensive route to construct due to the existing railway line.
 
-This is our preferred option and the one we are advocating for with Fife Council
+This is our preferred option and the one we are advocating for with Fife Council. 
+
+_Note that land owners currently oppose large sections of this route as it would require use or acquisition of private land - see [here](blog/2026_progress.qmd) for more info._
 
 ---
 
@@ -436,7 +438,9 @@ Option B runs through the interior of Tentsmuir Forest before joining the back r
 - Road widening works would possibly be more disruptive and costly than the railway option
 - Sections through the forest may be affected by forestry operations
 
-This option remains a "Plan B"  but is not currently preferred.
+This option remains a "Plan B"  but is not currently preferred.  
+
+_Note that land owners currently oppose large sections of this route as it would require use or acquisition of private land - see [here](blog/2026_progress.qmd) for more info._ 
 
 ---
 
@@ -451,7 +455,9 @@ Option C is a longer alternative through Tentsmuir suggested by some stakeholder
 - The route does not pass through Morton Lochs and so provides less connectivity. 
 - It still requires road sections as in Option B that would need improvement
 
-This option is retained for completeness but is not preferred at this stage.
+This option is retained for completeness but is not preferred at this stage. 
+
+_Note that land owners currently oppose large sections of this route as it would require use or acquisition of private land - see [here](blog/2026_progress.qmd) for more info._ 
 
 ---
 

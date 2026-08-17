@@ -1,7 +1,7 @@
 ---
-title: "The Story so Far"
+title: "How it began"
 format: html
-description: "A summary of the project progress as we open the new website"
+description: "How the cycle link campaign started"
 image: the_story_so_far_small.png
 author: Jamie Macaulay
 ---
@@ -22,13 +22,11 @@ While a significant portion of the route was plain sailing, the initial stages r
 
 ### 🚧 Alternative Route Challenges
 
-In other walks we also explored some alternative routes but these were not always straightforward. Mark and Jim attempted to map an alternative route from the south, which proved to be a chilly lesson in the lay of the land.
-
-They were cut off by a high deer fence and gate near Fetterdale. Jim managed to climb the gate, but Mark found it tricky. After they climbed back over, they had to change tack, returning to the Rhynd area. There, they encountered another obstacle—a lower locked gate—which was climbed to finally gain access to the Tentsmuir forest track and get back up to Fetterdale. Despite the cold, they returned pleased, having learned invaluable lessons about the landscape and potential access points.
+In other walks we also explored some alternative routes but these were not always straightforward. Mark and Jim attempted to map an alternative route from the south, which proved to be a chilly lesson in the lay of the land. They were cut off by a high deer fence and gate near Fetterdale. Jim managed to climb the gate, but Mark found it tricky. After they climbed back over, they had to change tack, returning to the Rhynd area. There, they encountered another obstacle—a lower locked gate—which was climbed to finally gain access to the Tentsmuir forest track and get back up to Fetterdale. Despite the cold, they returned pleased, having learned invaluable lessons about the landscape and potential access points.
 
 ### 🏛️ Laying the Groundwork: Consultation and Research
 
-After exploring the possible options on foot Jim and I got on our laptops and started trying to figure out how to make the cycle path a reality. By happy coincidence, Fife Council had just begun a consultation on the Active Travel Strategy and Action Plan. We attended a consultation meeting in the small meeting room at the Larick Centre, which helped us align our vision with the broader local strategy - we submitted our thoughts as a document to the consultation that a direct link between Leuchars and Tayport would be important and the railway line was an obvious place to start thinking about where a route might go. We then began detailed research:
+After exploring the possible options on foot Jim and I got on our laptops and started trying to figure out how to make the cycle path a reality. By happy coincidence, Fife Council had just begun a consultation on the Active Travel Strategy and Action Plan. We attended a consultation meeting in the small meeting room at the Larick Centre, which helped us align our vision with the broader local strategy - we submitted our thoughts as a document to the consultation that a direct link between Leuchars and Tayport would be important and the old railway line was an obvious place to start thinking about where a route might go. We then began detailed research:
 
 -   Landowner Identification: We researched online to find the landowners involved along the route.
 
@@ -40,10 +38,10 @@ We also reached out to Cllr Jonny Tepp, asking if he had any advice. His support
 
 ### 🤝 Building Relationships: Engaging with the Farming Community
 
-In establishing this route it is important that we engage with landowners. While it's always going to be tricky trying to approach the idea of a path being built on someone's land, all the landowners we have approached so far have listened to our thoughts and ideas and we hope this forged an initial relationship for future discussions. Our aim is to work collaboratively and keep them in the loop at every stage.
+In establishing this route it is important that we engage with landowners. While it's always going to be tricky trying to approach the idea of a path being built on someone's land, all the landowners we have approached so far have listened to our thoughts and ideas and we hope this forged an initial relationship for future discussions, despite some landowners having serious reservations. Our aim is to work collaboratively and keep them in the loop at every stage.
 
 ### 🌟 Bigger and Team and moving Forward
 
-Our numbers are growing with two new team members, Jenny and Shona, and we are now a constituted body within Tayport Community Council that can represent the community in Tayport along with Guardbridge and Leuchars.
+Our numbers are growing with  new team members and we are now a constituted body within Tayport Community Council that can represent the community in Tayport along with Guardbridge and Leuchars.
 
 Our next stage is...well this blog post the new website and community consultation. Once we show community buy-in, Fife council should release the funding for an initial feasibility study and that will push us closer to safer, more accessible active travel for Tayport, Leuchars and North East Fife.
