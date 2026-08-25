@@ -463,7 +463,7 @@ _Note that land owners currently oppose large sections of this route as it would
 
 ### Active travel strategy
 
-The Tayport Cycle Link forms part of Fife Council's broader [Active Travel Strategy](https://www.fife.gov.uk/__data/assets/file/0019/40078/active-travel-strategy-and-action-plan.pdf)connecting Fife's towns and villages with safe cycle routes. You can find more information about the Active Travel Strategy on the Fife Council website.
+The Tayport Cycle Link forms part of Fife Council's broader [Active Travel Strategy](https://www.fife.gov.uk/__data/assets/file/0019/40078/active-travel-strategy-and-action-plan.pdf) connecting Fife's towns and villages with safe cycle routes. You can find more information about the Active Travel Strategy on the Fife Council website.
 
 ![](./images/active_travel_map.png){.rounded-img}
 
