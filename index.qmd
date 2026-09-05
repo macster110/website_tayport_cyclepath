@@ -12,7 +12,7 @@ listing:
 ---
 
 
-Connecting Dundee, Tayport, Leuchars and St Andrews with a safe and scenic route for cyclists and pedestrians alongside Tentsmuir Forest.
+Connecting Dundee, Tayport, Leuchars, Guardbridge and St Andrews with a safe and scenic route for cyclists and pedestrians alongside Tentsmuir Forest.
 
 ![](./images/cyclepath_mock_up3.png){.rounded-img}
 
@@ -55,7 +55,7 @@ Connecting Dundee, Tayport, Leuchars and St Andrews with a safe and scenic route
 <div style="display: flex; flex-wrap: wrap; gap: 2rem; justify-content: center; margin: 2rem 0;">
   <div style="flex: 1; min-width: 220px;">
     <h3>🌱 Cuts CO₂ Emissions</h3>
-    <p>Every bike ride means fewer car journeys, helping keep our air clean and our planet healthy.</p>
+    <p>Every bike ride means fewer car journeys, helping to keep our air clean and our planet healthy.</p>
   </div>
   <div style="flex: 1; min-width: 220px;">
     <h3>🏃️ Boosts Health</h3>

@@ -411,7 +411,7 @@ Click on any route to see more details. The dashed lines are possible routes and
 <p>
 ## Route details
 
-### Option A – Old Railway Line {#option-a}
+### <svg class="route-swatch" width="46" height="12" viewBox="0 0 46 12" role="img" aria-hidden="true" style="vertical-align:middle;margin-right:0.4em;"><line x1="1" y1="6" x2="45" y2="6" stroke="#2a7ae2" stroke-width="5" stroke-dasharray="8, 8" stroke-linecap="butt" /></svg> Option A – Old Railway Line {#option-a}
 
 **Distance:** 6.7 km | **Status:** Preferred route
 
@@ -427,7 +427,7 @@ _Note that land owners currently oppose large sections of this route as it would
 
 ---
 
-### Option B – Tentsmuir Forest Route: 8.0 km {#option-b}
+### <svg class="route-swatch" width="46" height="12" viewBox="0 0 46 12" role="img" aria-hidden="true" style="vertical-align:middle;margin-right:0.4em;"><line x1="1" y1="6" x2="45" y2="6" stroke="#e27a2a" stroke-width="5" stroke-dasharray="8, 8" stroke-linecap="butt" /></svg> Option B – Tentsmuir Forest Route: 8.0 km {#option-b}
 
 **Distance:** 8.0 km | **Status:** Alternative under consideration
 
@@ -444,7 +444,7 @@ _Note that land owners currently oppose large sections of this route as it would
 
 ---
 
-### Option C – Tentsmuir Route: 8.9 km {#option-c}
+### <svg class="route-swatch" width="46" height="12" viewBox="0 0 46 12" role="img" aria-hidden="true" style="vertical-align:middle;margin-right:0.4em;"><line x1="1" y1="6" x2="45" y2="6" stroke="#BA55D3" stroke-width="5" stroke-dasharray="8, 8" stroke-linecap="butt" /></svg> Option C – Tentsmuir Route: 8.9 km {#option-c}
 
 **Distance:** 8.9 km | **Status:** Alternative under consideration
 
@@ -463,10 +463,4 @@ _Note that land owners currently oppose large sections of this route as it would
 
 ### Active travel strategy
 
-The Tayport Cycle Link forms part of Fife Council's broader [Active Travel Strategy](https://www.fife.gov.uk/__data/assets/file/0019/40078/active-travel-strategy-and-action-plan.pdf) connecting Fife's towns and villages with safe cycle routes. You can find more information about the Active Travel Strategy on the Fife Council website.
-
-![](./images/active_travel_map.png){.rounded-img}
-
-::: {.centertext style="text-align: center;"}
-_Map of Fife Council's Active Travel Strategy showing proposed cycle routes in North East Fife_
-:::
+The Tayport Cycle Link forms part of Fife Council's broader [Active Travel Strategy](https://www.fife.gov.uk/__data/assets/file/0019/40078/active-travel-strategy-and-action-plan.pdf) connecting Fife's towns and villages with safe cycle routes. 

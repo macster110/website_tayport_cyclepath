@@ -10,7 +10,7 @@ We’ll submit the survey results to Fife Council as part of our campaign to sec
 The survey only takes five minutes and includes an opportunity to add any additional thoughts or ideas at the end. You can access via the link below 👇;
 
 ::: {style="text-align: center;"}
-<a href="https://forms.office.com/e/PTnEQAQYH6" role="button" data-toggle="tooltip" title="Please take our survey to help us move the cycle path forward" 
+<a href="https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAANAAaabjBdUM1RBRkg3RzBBWjJVTEVZVEI4WEVaN1pTUy4u" role="button" data-toggle="tooltip" title="Please take our survey to help us move the cycle path forward" 
    style="background: radial-gradient(circle , #29962a, #507d2a); /* Gradient green */
           border: none;
           color: white;

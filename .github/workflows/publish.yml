@@ -2,7 +2,7 @@ on:
   push:
     branches: main
 
-name: Render, Encrypt, and Publish
+name: Render and Publish
 
 jobs:
   build-deploy:
@@ -16,29 +16,15 @@ jobs:
       - name: Set up Quarto
         uses: quarto-dev/quarto-actions/setup@v2
 
-      - name: Install Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: '20'
-
-      - name: Install StatiCrypt
-        run: npm install -g staticrypt
-
       - name: Render Quarto
-        # This creates the _site folder with your normal HTML
+        # This creates the _site folder with the site HTML
         run: quarto render
-
-      - name: Encrypt HTML files
-        # This loop finds every HTML file and overwrites it with an encrypted version
-        # REPLACE 'your-password-here' with your actual desired password
-        run: |
-          find _site -name "*.html" -exec staticrypt {} -p "@64TentsmuirCycle" -o {} \;
 
       - name: Publish to GitHub Pages
         uses: quarto-dev/quarto-actions/publish@v2
         with:
           target: gh-pages
-          # render: false ensures we upload the encrypted files, not a fresh render
+          # render: false uploads the _site folder built by the step above
           render: false
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

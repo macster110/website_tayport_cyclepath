@@ -37,7 +37,7 @@ The OS 1:25,000 (Outline), 1945-1965 map shows the same:
 
 
 
-![Figure 4: The Ordnance Survey map from 1945-1965, with a yellow line showing the route that was listed as a right-of-way](images/old_railway_map_1965.png)
+![Figure 4: The Ordnance Survey map from 1945-1965, with a yellow line showing the route that was listed as a right-of-way](images/old_railway_map_1965.png){width="55%"}
 
 This right-of-way is clear on maps as far back and 1885-1900 and even 1798-1878. So it seems that this route following beside the old trainline was in fact a right-of-way extending back for well over a century. The current status quo, with no path south from Tayport to the Rhynd is quite a new development for this piece of land, and a path along the route of the old trainline would make a lot of sense to reinstate this lost right-of-way.
 
