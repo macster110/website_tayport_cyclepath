@@ -32,7 +32,7 @@ After exploring the possible options on foot Jim and I got on our laptops and st
 
 -   Historical Mapping: We poured over maps of the old railway line to trace the forgotten path, a potential alignment for our route.
 
--   Formal Submissions: Our initial research culminated in a succesful submission to Fife Council's [Active Travel Strategy](map.qmd). 
+-   Formal Submissions: Our initial research culminated in a succesful submission to Fife Council's [Active Travel Strategy](/map.qmd). 
 
 We also reached out to Cllr Jonny Tepp, asking if he had any advice. His support in making contacts with council officers and with local organisations has been helpful and appreciated
 
